@@ -1,3 +1,8 @@
+# A portfolio made using React.js
+
+This project was made with React.js. I am following a tutorial and reading documentation to learn new concepts
+and get familiar with React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
